@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Baseball Platform</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">TravelBaseball</div>
+            <ul class="nav-links">
+                <li><a href="#dashboard">Dashboard</a></li>
+                <li><a href="#schedule">Schedule</a></li>
+                <li><a href="#player-profiles">Players</a></li>
+                <li><a href="#recruitment">Recruitment</a></li>
+                <li><a href="#store">Store</a></li>
+                <li><a href="#community">Community</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="dashboard" class="section">
+            <h1>Dashboard</h1>
+            <p>Welcome to your travel baseball dashboard! Manage schedules, track stats, and stay updated.</p>
+        </section>
+
+        <section id="schedule" class="section">
+            <h2>Team Schedule</h2>
+            <div class="calendar">
+                <!-- Placeholder for Calendar -->
+                <p>Upcoming practices, games, and tournaments will appear here.</p>
+            </div>
+        </section>
+
+        <section id="player-profiles" class="section">
+            <h2>Player Profiles</h2>
+            <div class="profiles">
+                <p>View and manage player statistics, achievements, and recruitment highlights.</p>
+            </div>
+        </section>
+
+        <section id="recruitment" class="section">
+            <h2>Recruitment Hub</h2>
+            <p>Showcase players, connect with college scouts, and explore recruiting opportunities.</p>
+        </section>
+
+        <section id="store" class="section">
+            <h2>Team Store</h2>
+            <p>Buy team gear, equipment, and more.</p>
+        </section>
+
+        <section id="community" class="section">
+            <h2>Community Forum</h2>
+            <p>Engage with other parents, players, and coaches. Share advice and experiences.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 TravelBaseball Platform. All rights reserved.</p>
+    </footer>
+</body>
+</html>
